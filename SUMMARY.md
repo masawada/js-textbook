@@ -1,20 +1,33 @@
 # Summary
 * [はじめに](README.md)
-  * [JavaScriptを書く準備](main/chap0/0-2.md)
+  * [JavaScriptを書く準備]()
 
-* [JavaScript入門以前](main/chap0/0-1.md)
+* [JavaScript入門以前]()
 
-* JavaScriptの基礎
-  * 基本的なパーツ
-    * [コメントとホワイトスペース](main/chap1/comments.md)
-    * [型、値、変数](main/chap1/variables.md)
-    * [演算](main/chap1/operations.md)
-    * [条件分岐](main/chap1/conditions.md)
-    * [配列](main/chap1/array.md)
-    * [オブジェクト](main/chap1/object.md)
-    * [関数](main/chap1/function.md)
-  * JavaScriptのオブジェクト指向
-    * [ざっくりとしたオブジェクト指向の概要]()
+* [JavaScriptの基礎](main/core/introduction.md)
+  * [基本的なパーツ](main/core/chap1/introduction.md)
+    * [コメントとホワイトスペース](main/core/chap1/comments.md)
+    * [型、値、変数](main/core/chap1/variables.md)
+    * [演算](main/core/chap1/operations.md)
+    * [繰り返しと条件分岐](main/core/chap1/conditions.md)
+    * [関数](main/core/chap1/function.md)
+    * [配列](main/core/chap1/array.md)
+    * [オブジェクト](main/core/chap1/object.md)
+  * [JavaScriptのオブジェクト指向](main/core/chap2/introduction.md)
+    * [ざっくりとしたオブジェクト指向の概要](main/core/chap2/oop.md)
+    * [オブジェクトの作成](main/core/chap2/createobjects.md)
+  * [ブラウザにおけるJavaScript](main/core/chap3/introduction.md)
+    * [Document Object Model](main/core/chap3/dom.md)
+    * [スタイルの制御](main/core/chap3/style.md)
+    * [イベント](main/core/chap3/events.md)
+    * [通信](main/core/chap3/ajax.md)
+    * [CookieとlocalStorage](main/core/chap3/storage.md)
+  * [新しいJavaScript](main/core/chap4/introduction.md)
+    * [Promise](main/core/chap4/promise.md)
+    * [テンプレートリテラル](main/core/chap4/template.md)
+  * [ライブラリの使用](main/core/chap5/introduction.md)
+    * [jQuery](main/core/chap5/jquery.md)
+    * [Vue.js](main/core/chap5/vue.md)
 
 * Appendix
   * [セミコロンをつけないと起きる不具合](main/appendix/1.md)
