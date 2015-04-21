@@ -6,7 +6,7 @@
     * [コメントとホワイトスペース](main/core/chap1/comments.md)
     * [型、値、変数](main/core/chap1/variables.md)
     * [演算](main/core/chap1/operations.md)
-    * [繰り返しと条件分岐](main/core/chap1/conditions.md)
+    * [条件分岐と繰り返し](main/core/chap1/conditions.md)
     * [関数](main/core/chap1/function.md)
     * [配列](main/core/chap1/array.md)
     * [オブジェクト](main/core/chap1/object.md)
