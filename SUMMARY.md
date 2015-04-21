@@ -1,8 +1,5 @@
 # Summary
 * [はじめに](README.md)
-  * [JavaScriptを書く準備]()
-
-* [JavaScript入門以前]()
 
 * [JavaScriptの基礎](main/core/introduction.md)
   * [基本的なパーツ](main/core/chap1/introduction.md)
