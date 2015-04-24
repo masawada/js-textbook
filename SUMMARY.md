@@ -5,7 +5,7 @@
   * [基本的なパーツ](main/core/chap1/introduction.md)
     * [コメントとホワイトスペース](main/core/chap1/comments.md)
     * [型、値、変数](main/core/chap1/variables.md)
-    * [演算](main/core/chap1/operations.md)
+    * [演算子](main/core/chap1/operations.md)
     * [条件分岐と繰り返し](main/core/chap1/conditions.md)
     * [関数](main/core/chap1/function.md)
     * [配列](main/core/chap1/array.md)
