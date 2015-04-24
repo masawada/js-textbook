@@ -25,6 +25,3 @@
   * [ライブラリの使用](main/core/chap5/introduction.md)
     * [jQuery](main/core/chap5/jquery.md)
     * [Vue.js](main/core/chap5/vue.md)
-
-* Appendix
-  * [セミコロンをつけないと起きる不具合](main/appendix/1.md)
