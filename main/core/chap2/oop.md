@@ -154,7 +154,7 @@ var Person = {
   },
   setBoyFriend: function() {
     this.hasGirlFriend = false;
-    this.hasBoyFriend: true;
+    this.hasBoyFriend = true;
   },
   like: [],
   mostLike: function() {
